@@ -220,6 +220,14 @@ Expected local model path:
 Backend/models/best_resnet50v2_finetuned.keras
 ```
 
+The model file must follow this exact folder structure:
+
+```text
+Backend/
++-- models/
+    +-- best_resnet50v2_finetuned.keras
+```
+
 To enable facial emotion recognition:
 
 1. Create the folder:
@@ -400,5 +408,6 @@ John El Hachem
 Charbel Mouawad
 Saint Joseph University — ESIB  
 Spring 2026
+
 
 
