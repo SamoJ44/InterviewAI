@@ -234,7 +234,7 @@ Backend/models/
 best_resnet50v2_finetuned.keras
 ```
 
-3. Add the final public model download link here before submission:
+3. Download the trained emotion model weights here:
 
 ```text
 Model weights download link: https://drive.google.com/file/d/1ua5JXuovZg5WAb5YQH5wKqYaeSTvgJlL/view?usp=sharing
@@ -388,7 +388,7 @@ Several implementation choices were made to improve real-time behavior and outpu
 - Add richer final reports after each interview session
 - Add historical progress tracking across sessions
 - Perform more systematic quantitative evaluation of behavioral scoring modules
-- Add speach recognition & Analysis
+- Add speech recognition and analysis
 
 ---
 
@@ -400,4 +400,5 @@ John El Hachem
 Charbel Mouawad
 Saint Joseph University — ESIB  
 Spring 2026
+
 
