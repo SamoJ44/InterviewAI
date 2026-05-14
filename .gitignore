@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+emotion_venv/
+
+# Logs
+.run_logs/
+*.log
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Frontend / Node
+node_modules/
+dist/
+build/
+coverage/
+.vite/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+emotion_service_test.jpg
+
+# Large trained model weights
+Backend/models/*.keras

@@ -1,0 +1,14 @@
+# MediaPipe webcam backend dependencies.
+#
+# Keep protobuf below 5 for the MediaPipe backend. Protobuf 5/6/7 can break
+# MediaPipe FaceMesh/Pose graph initialization with descriptor API errors.
+mediapipe==0.10.20
+protobuf>=4.25.3,<5
+
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+groq
+numpy<2
+opencv-contrib-python==4.11.0.86
