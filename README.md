@@ -164,7 +164,7 @@ Frontend/
 ### 7.1 Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/SamoJ44/InterviewAI.git
 cd InterviewAI
 ```
 
@@ -237,7 +237,7 @@ best_resnet50v2_finetuned.keras
 3. Add the final public model download link here before submission:
 
 ```text
-Model weights download link: TO BE ADDED
+Model weights download link: https://drive.google.com/file/d/1ua5JXuovZg5WAb5YQH5wKqYaeSTvgJlL/view?usp=sharing
 ```
 
 ---
@@ -400,3 +400,4 @@ John El Hachem
 Charbel Mouawad
 Saint Joseph University — ESIB  
 Spring 2026
+
